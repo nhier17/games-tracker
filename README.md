@@ -4,9 +4,19 @@
 ## Project Description
 A React application that lets you keep track of different games on different platforms. The games are fetched using and they are uptodate .
 
-In the project directory, you can run:
 
-### `npm start`
+
+
+### Dependencies
+npm install @reduxjs/toolkit
+    -get configureStore as a store for data fetched using Api  
+npm install framer-motion
+    -adding animation to your app
+npm install styled-components
+    -styling your app
+ npm install axios
+     -making http request from web browser
+  npm install react-redux   
 
 
 Runs the app in the development mode.\
