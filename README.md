@@ -1,8 +1,8 @@
 # Project Name: Games Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Project Description
+A React application that lets you keep track of different games on different platforms 
 
 In the project directory, you can run:
 
