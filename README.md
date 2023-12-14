@@ -2,7 +2,7 @@
 
 
 ## Project Description
-A React application that lets you keep track of different games on different platforms 
+A React application that lets you keep track of different games on different platforms. The games are fetched using and they are uptodate .
 
 In the project directory, you can run:
 
